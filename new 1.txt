@@ -1,0 +1,31 @@
+1. Zydus 
+2. Exide - if below 275
+3. Fed bank -if below 200
+4. HCL tech - if below 1200
+5. IDFC - below 70
+6. ITC
+7. Infy - 1450 below
+8. Indusind 
+9. Jyothi labs
+10. Mahindra - below 1700
+11. Mannapuram - below 250
+12. Stovecraft - below 550
+13. Tech mahindra - below 1100
+14. Wipro
+15. Petronet - below 270
+16. Thangamayil - expensive
+17. Natco
+18. Tata chemical - on hold. Wait for correction
+19. Ktk bank
+20. Tata motors twins
+21. Bajaj - 7000 below 
+22. Hero motors - 4500 below
+23. Amararaja energy - 850 below
+24. TMB - hold
+25. Muthoot- hold
+26. Titan - below 3000
+27. TCS
+28. South indian bank - 32
+29. Yes bank
+
+=tblIncome[[#Totals],[FEB]]-D3
