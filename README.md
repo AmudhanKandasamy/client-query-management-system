@@ -37,16 +37,13 @@ This project demonstrates real-world concepts such as authentication, database o
 ## 📂 Project Structure
 
 client-query-management-system/
-│
 ├── application.py # Streamlit application
 ├── database_operations.py # Database logic
 ├── user_db.py # Script to seed users
 ├── config_example.py # Sample DB config (no secrets)
 ├── .gitignore # Ignored files
-│
 ├── sql/
 │ └── database_schema.sql # Database & table creation
-│
 └── README.md
 
 
